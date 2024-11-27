@@ -1,0 +1,25 @@
+{
+  "name": "is-wds",
+  "version": "1.0.0",
+  "description": "Is The String WDS?",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussien10/first.git"
+  },
+  "keywords": [
+    "WDS"
+  ],
+  "author": "Hussien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hussien10/first/issues"
+  },
+  "homepage": "https://github.com/hussien10/first#readme"
+}
