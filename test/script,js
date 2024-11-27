@@ -1,3 +1,3 @@
-const wds = require ('is-wds');
+const wds = require ('is-wds-hussien');
 
 console.log(wds("WDS"));
