@@ -1,0 +1,3 @@
+const wds = require ('is-wds');
+
+console.log(wds("WDS"));
